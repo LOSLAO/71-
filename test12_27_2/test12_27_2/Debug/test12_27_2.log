@@ -1,0 +1,18 @@
+﻿  test.c
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): error C3873: “0x201c”: 不允许将此字符作为标识符的第一个字符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): error C2065: ““”: 未声明的标识符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): error C2017: 非法的转义序列
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): error C3872: “0x201d”: 此字符不允许在标识符中使用
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): error C2065: “s”: 未声明的标识符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): warning C4047: “函数”:“const char *const ”与“int”的间接级别不同
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): warning C4024: “printf”: 形参和实参 1 的类型不同
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(340): error C2146: 语法错误: 缺少“)”(在标识符“n””的前面)
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(345): error C3873: “0x201d”: 不允许将此字符作为标识符的第一个字符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(345): error C3872: “0x201d”: 此字符不允许在标识符中使用
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(345): error C2065: “”zhang””: 未声明的标识符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(346): error C3873: “0x201d”: 不允许将此字符作为标识符的第一个字符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(346): error C3872: “0x201d”: 此字符不允许在标识符中使用
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(346): error C2065: “”wang””: 未声明的标识符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(347): error C3873: “0x201d”: 不允许将此字符作为标识符的第一个字符
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(347): error C3872: “0x201d”: 此字符不允许在标识符中使用
+c:\download\新建文件夹\test12_27_2\test12_27_2\test.c(347): error C2065: “”zhao””: 未声明的标识符
